@@ -1,4 +1,4 @@
 # Data_Collection
 
-Collection of images and other dataset
+Collection of popular dataset for ML/DL/CV/NLP
 
